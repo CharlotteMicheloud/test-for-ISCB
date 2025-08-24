@@ -1,5 +1,3 @@
-url: https://pkgdown.r-lib.org
-
 template:
   bootstrap: 5
   bootswatch: cerulean
